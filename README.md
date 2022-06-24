@@ -2,9 +2,9 @@
 
 ```
     useContext hook contains 3 main part:
-    **Context:** Keep values in Context.
-    **Provider:**It provides values in Context.
-    **Context:** Make values it accessable from any nodes.
+    _Context_ : Keep values in Context.
+    _Provider_ : It provides values in Context.
+    _Context_ : Make values it accessable from any nodes.
 
 ```
 
