@@ -30,7 +30,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <button className='btn' onClick={toggleTheme}> <i className="far fa-smile"></i> {theme === themes.dark ? "DARKTHEME" : "LIGHTTHEME"} </button>
+      <button className='btn' onClick={toggleTheme}>{theme === themes.dark ? "DARKTHEME" : "LIGHTTHEME"} </button>
       <ThemeContext.Provider value={theme}>
         <Content />
       </ThemeContext.Provider>
