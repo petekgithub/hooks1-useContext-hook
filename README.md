@@ -2,9 +2,9 @@
 
 ```
     useContext hook contains 3 main part:
-    __Context__  Keep values in Context.
-    __Provider__  It provides values in Context.
-    __Context__  Make values it accessable from any nodes.
+    `_Context_`  Keep values in Context.
+    `_Provider_`   It provides values in Context.
+    `_Context_`  Make values it accessable from any nodes.
 
 ```
 
