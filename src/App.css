@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital@1&family=Rubik+Moonrocks&family=Tiro+Telugu&display=swap');
 .App {
   text-align: center;
 }
@@ -36,3 +38,21 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  text-align: center;
+  width: 800px;
+  height: 800px;
+  padding-left: 500px;
+  font-family: 'Chakra Petch', sans-serif;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  background-color: #F0EA;
+  
+}
+
